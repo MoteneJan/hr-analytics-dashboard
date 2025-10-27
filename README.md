@@ -43,4 +43,30 @@ The **HR Analytics Dashboard** provides a comprehensive overview of employee sta
 - **Visualization Types**: Cards, Bar Charts, Donut Charts
 
 ## 📂 File Structure
+```text
+📁 HR-Analytics-Dashboard
+│
+├── 📊 HR Dashboard.pbix
+├── 🖼️ Screenshot (335).png
+└── 📄 README.md
+```
+
+
+## 💡 How to Use
+
+1. Open the `.pbix` file in **Power BI Desktop**.
+2. Refresh the dataset connection to load updated data.
+3. Interact with filters and visuals to explore insights.
+
+## 📜 Author
+
+**Jan Motene**  
+💼 Junior Software Developer & Data Scientist  
+📍 Johannesburg, South Africa  
+🔗 [LinkedIn](https://www.linkedin.com/in/jan-motene-4864771b4/) | [Portfolio](https://motenejan.github.io/Web-Personal-Portfolio/)
+
+---
+
+> _Empowering HR teams with data-driven insights to make smarter workforce decisions._
+
 
